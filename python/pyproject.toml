@@ -1,0 +1,6 @@
+[build-system]
+requires = ["setuptools", "Cython"]
+
+[project]
+name = "tn93"
+version = "0.0.1"
